@@ -1,0 +1,28 @@
+.suggestion-list-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.button {
+  width: 30px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  border-style: none;
+  cursor: pointer;
+}
+.arroe-logo {
+  width: 30px;
+}
+.suggestion-para {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: bold;
+  color:  #475569;
+}
